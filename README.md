@@ -5,7 +5,7 @@ A wrapper for *mapcrafter_markers* from [mapcrafter](http://mapcrafter.org) (*[g
 * Player locations
 * Named Entity locations (ex: mobs with name tags, like your horse)
 
-![Example Image](https://raw.githubusercontent.com/mapcrafter/mapcrafter-markers-helper/blob/master/example.png)
+![Example Image](https://raw.githubusercontent.com/jamcole/mapcrafter-markers-helper/master/example.png)
 
 As per the mapcrafter documentation, mapcrafter_markers will generate a markers_generated.js with *prefixed* sign locations for usage on your map.
 
